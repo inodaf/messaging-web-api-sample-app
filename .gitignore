@@ -9,7 +9,9 @@
 /coverage
 
 # production
-# /build
+/build
+
+/.codesandbox/
 
 # misc
 .DS_Store
